@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+recordings/
+*.mp4
+*.wav
+*.metrics.csv
+*.summary.json
+.*-*/
+datasets/
+models/
+runs/
+*.pt
+*.onnx

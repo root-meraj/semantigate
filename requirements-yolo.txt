@@ -1,0 +1,5 @@
+# Optional training/inference environment; not needed to record or annotate.
+# Use a separate environment or the bundled Colab notebook for GPU training.
+ultralytics==8.4.175
+PyYAML>=6,<7
+Pillow>=10,<13

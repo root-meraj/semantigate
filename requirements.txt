@@ -1,0 +1,7 @@
+# Desktop recorder dependencies; FFmpeg with libx264 must also be on PATH.
+opencv-python>=4.8,<6
+numpy>=1.26,<3
+mss>=9,<11
+psutil>=5.9,<8
+Pillow>=10,<13
+PyAudioWPatch>=0.2.12.7,<0.3; sys_platform == "win32"
